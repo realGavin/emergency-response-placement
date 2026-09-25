@@ -1,0 +1,15 @@
+,0
+cell_rate,7150
+cell_how_rate,7140
+neighbor_rate,4954
+hour_cos,3038
+hour_sin,2663
+dow_sin,2238
+month_cos,2093
+month_sin,2023
+rec_24h,1650
+dow_cos,978
+rec_6h,818
+rec_1h,706
+weekend,284
+rush,265
