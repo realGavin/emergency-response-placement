@@ -7,7 +7,7 @@ The project uses 1.7M California traffic accidents to answer two questions:
 1. **Placement.** Choose *k* response-center sites that minimize severity-weighted travel time on the real road network.
 2. **Hourly risk.** Rank every ~11 km grid cell by how likely an accident is there in the next hour, so a dispatcher with limited attention knows where to look.
 
-An interactive dashboard puts both in front of a planner.
+An interactive dashboard puts both in front of a planner: **[live demo](https://erc-dashboard.onrender.com)**. It's on a free host, so the first load can take about a minute to wake up.
 
 ## Results
 
